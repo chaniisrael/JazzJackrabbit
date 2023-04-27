@@ -1,0 +1,48 @@
+﻿#configure_file ("levels.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+#configure_file ("level1.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+#configure_file ("level2.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+#configure_file ("level3.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+#configure_file ("player.png" ${CMAKE_BINARY_DIR} COPYONLY)
+#configure_file (""wall.png" ${CMAKE_BINARY_DIR} COPYONLY)
+#configure_file (""background.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+#configure_file (""chani.gif" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("level0.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("level1.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("level2.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("player.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("wall3.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("coin2.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("background1.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("background2.gif" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("background3.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("RegularMonster.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("monsterS.gif" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("soil.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("door4.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("key3.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("exit.PNG" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("play.PNG" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Help.PNG" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("lifejj.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("BulletGift.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("pineapple.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("psilot2.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("dokar.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("bb.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("BackgroundMusic.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("apple2.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("gameOver.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("GameOverMusic.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("GameWin.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("GameWin.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Gift.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("coin.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("help11.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+
+
+
+
+
+
+
